@@ -1,3 +1,5 @@
+Consegui pingar o host depois de colocar a flag --privileged ao abrir o container.
+
 According to: https://github.com/Dorozhko-Anton/ComputerVisionStreams/tree/main/Opencv%2BGstreamer
 
 # Step to run the docker
